@@ -63,6 +63,7 @@ a {
 }
 a:hover {
   color: black;
+  transition: all 1s ease;
 }
 
 .list-inline {
@@ -80,6 +81,7 @@ a:hover {
 }
 .list-inline i:hover {
   color: black;
+  transition: all 1s ease;
 }
 
 #introduction p {
